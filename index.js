@@ -46,6 +46,8 @@ if (sign === "scorpio") {
 }
 
 let signn = prompt("are you feeling lucky?");
+if (signn === "yes");{
+   alert("WELCOME ON BOARD");}
 let signnn = prompt("are you feeling lucky?", "sure");
 /*let sign = prompt("What's your sign?");
 
