@@ -37,5 +37,13 @@ sign = window.prompt("Are you feeling lucky"); // open the window with Text "Are
 sign = window.prompt("Are you feeling lucky", "sure"); // open the window with Text "Are you feeling lucky" and default value "sure"
 */
 
-prompt('what is your name');
+/*prompt('what is your name');*/
 
+let sign = prompt("What's your sign?");
+
+if (sign === "scorpio") {
+  alert("Wow! I'm a Scorpio too!");
+}
+
+let signn = prompt("are you feeling lucky?");
+let signnn = prompt("are you feeling lucky? sure");
