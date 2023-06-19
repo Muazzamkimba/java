@@ -1,4 +1,4 @@
-function computerPlay() {
+/*function computerPlay() {
   const pick = ['rock', 'paper', 'scissors'];
   return pick[Math.floor(Math.random() * pick.length)];
 }
@@ -15,8 +15,25 @@ function playRound(playerSelection, computerSelection) {
   } else {
      return `You lose! ${computerSelection} beats ${playerSelection}`;
   }
+function playRound(playerSelection, computerSelection) {
+  // your code here!
+} 
+const playerSelection = "rock";
+const computerSelection = getComputerChoice();
+console.log(playRound(playerSelection, computerSelection));
 }
-
 const playerSelection = prompt("Start the game by picking among 'Rock, Paper, Scissors'").toLowerCase();
 const computerSelection = computerPlay();
-console.log(playRound(playerSelection, computerSelection))
+console.log(playRound(playerSelection, computerSelection))*/
+
+function playRound(playerSelection, computerSelection) {
+  // your code here!
+  
+}
+const playerSelection = prompt("Start the game by picking among 'Rock, Paper, Scissors'").toLowerCase();
+const computerSelection = computerPlay();
+const playerSelection4 = "rock";
+const computerSelection5 = getComputerChoice();
+console.log(playRound(playerSelection, computerSelection));
+
+
