@@ -39,7 +39,7 @@ sign = window.prompt("Are you feeling lucky", "sure"); // open the window with T
 
 /*prompt('what is your name');*/
 
-let sign = prompt("What's your sign?");
+/*let sign = prompt("What's your sign?");
 
 if (sign === "scorpio") {
   alert("Wow! I'm a Scorpio too!");
@@ -49,6 +49,7 @@ let signn = prompt("are you feeling lucky?");
 if (signn === "yes");{
    alert("WELCOME ON BOARD");}
 let signnn = prompt("are you feeling lucky?", "sure");
+*/
 /*let sign = prompt("What's your sign?");
 
 if (sign.toLowerCase() === "scorpio") {
