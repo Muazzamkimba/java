@@ -72,3 +72,4 @@ const sumArray = function(array) {
  };
  
  sumArray([2, 2, 2]);
+ let a = [1, 2, 3];
