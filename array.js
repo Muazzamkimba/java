@@ -24,3 +24,6 @@ console.log(carss[2]);*/
 const cars = ['hilux', 'honda', 'jeep', 'toyota'];
 let car = cars[0]
 console.log(car);
+
+cars[0] = 'mercedez benz'
+console.log(cars);
