@@ -9,6 +9,10 @@ else{
 */
 
 let b = ['yam', 'sugar', 'milk', 'bread'];
+console.log(b);
 
-push.b[egg]
-console.log('b');
+const cars = new Array("Saab", "Volvo", "BMW");
+console.log(cars)
+
+const carss = ['saab', 'volvo', 'BMW'];
+console.log(carss)
