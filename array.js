@@ -7,7 +7,7 @@ else{
     alert('Disapproved');
 }
 */
-
+/*
 let b = ['yam', 'sugar', 'milk', 'bread'];
 console.log(b);
 
@@ -19,4 +19,8 @@ console.log(carss)
 
 console.log(carss[0]);
 console.log(carss[1]);
-console.log(carss[2]);
+console.log(carss[2]);*/
+
+const cars = ['hilux', 'honda', 'jeep', 'toyota'];
+let car = cars[0]
+console.log(car);
