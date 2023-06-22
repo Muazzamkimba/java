@@ -8,8 +8,7 @@ else{
 }
 */
 
-let question = prompt("what do you eat?");
-if (question === food);
-    let food = ['beans', 'rice', 'yam'];
-   {console.log('food')
-}
+let b = ['yam', 'sugar', 'milk', 'bread'];
+
+push.b[egg]
+console.log('b');
