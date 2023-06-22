@@ -14,5 +14,9 @@ console.log(b);
 const cars = new Array("Saab", "Volvo", "BMW");
 console.log(cars)
 
-const carss = ['saab', 'volvo', 'BMW'];
+const carss = ['saab 08', 'volvo 09', 'BMW 2023'];
 console.log(carss)
+
+console.log(carss[0]);
+console.log(carss[1]);
+console.log(carss[2]);
