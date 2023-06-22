@@ -1,7 +1,7 @@
 let question = prompt("do you agreed?")
 if(question === "yes"){
-    console.log('Appoved');
+    alert('Approved');
 }
 else{
-    console.log('Disapproved');
+    alert('Disapproved');
 }
