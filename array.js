@@ -28,3 +28,7 @@ console.log(car);
 cars[0] = 'mercedez benz';
 cars[2] = 'golf';
 console.log(cars);
+
+const fruits = ["Banana", "Orange", "Apple", "Mango"];
+fruits.toString();
+console.log(fruits)
