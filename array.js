@@ -21,14 +21,19 @@ console.log(carss[0]);
 console.log(carss[1]);
 console.log(carss[2]);*/
 
-const cars = ['hilux', 'honda', 'jeep', 'toyota'];
-let car = cars[0]
-console.log(car);
+//const cars = ['hilux', 'honda', 'jeep', 'toyota'];
+//let car = cars[0]
+//console.log(car);
 
-cars[0] = 'mercedez benz';
-cars[2] = 'golf';
-console.log(cars);
+//cars[0] = 'mercedez benz';
+//cars[2] = 'golf';
+//console.log(cars);
 
-const fruits = ["Banana", "Orange", "Apple", "Mango"];
-fruits.toString();
-console.log(fruits)
+//const fruits = ["Banana", " Orange", " Apple", " Mango"];
+//let text = fruits.toString();
+//console.log(text)
+
+
+const cars = ['saab 08', 'volvo 09', 'BMW 2023'];
+let b = cars.toString()
+console.log(b)
