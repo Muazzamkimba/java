@@ -1,0 +1,1 @@
+let question = prompt("do you agreed?")
