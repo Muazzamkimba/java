@@ -34,6 +34,9 @@ console.log(carss[2]);*/
 //console.log(text)
 
 
-const cars = ['saab 08', 'volvo 09', 'BMW 2023'];
-let b = cars.toString()
-console.log(b)
+//const cars = ['saab 08', 'volvo 09', 'BMW 2023'];
+//let b = cars.toString()
+//console.log(b)
+let cars = ['honda', 'benz', 'toyota', 'golf']
+let car = cars[cars.length - 1]
+console.log(car);
