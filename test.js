@@ -5,5 +5,6 @@
 stock = ['laptop', 'battery', 'fan', 'printer'];
     stock[4] = 'radio'
     stock[5] = 'handfan'
+    stock[6] = 'macbook'
     console.log(stock);
 
