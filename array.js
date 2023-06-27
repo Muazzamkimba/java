@@ -39,7 +39,7 @@ console.log(carss[2]);*/
 //console.log(b)
 /*let cars = ['honda', 'benz', 'toyota', 'golf']
 let car = cars[cars.length - 1]
-console.log(car);*/
+console.log(car);
 
 const fruits = ["Banana", "Orange", "Apple", "Mango"];
 let fLen = fruits.length;
@@ -49,5 +49,5 @@ for (let i = 0; i < fLen; i++) {
   text += "<li>" + fruits[i] + "</li>";
 }
 text += "</ul>";
-
+*/
 
