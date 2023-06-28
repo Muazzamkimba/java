@@ -6,6 +6,6 @@ stock = ['laptop', 'battery', 'fan', 'printer'];
     stock[4] = 'radio'
     stock[5] = 'handfan'
     stock[6] = 'macbook'
-    stock[1] = ''
+    stock[1] = 'bez'
     console.log(stock);
 
