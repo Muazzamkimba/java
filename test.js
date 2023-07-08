@@ -5,9 +5,12 @@
 fruits.push('cola');
 console.log(fruits);*/
 
-const cars = ['benz', 'toyota', 'mazda'];
+/*const cars = ['benz', 'toyota', 'mazda'];
 cars.push('kol');
-console.log(cars);
+console.log(cars);*/
 
+const cars = ['benz', 'toyota', 'mazda'];
+cars.shift('kol');
+console.log(cars);
 
 
