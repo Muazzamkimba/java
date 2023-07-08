@@ -25,5 +25,7 @@ console.log(fruit);*/
     fruits[0] = 'kiwi'
     console.log(fruits);*/
 
-    
+    const fruits =  ['banana', 'orange', 'apple', 'mango', 'carrot']
+    delete fruits[0];
+    console.log(fruits)
 
