@@ -17,7 +17,11 @@ console.log(cars);*/
 let fruit = fruits.shift();
 console.log(fruit);*/
 
-const fruits = ['banana', 'orange', 'apple', 'mango'];
+/*const fruits = ['banana', 'orange', 'apple', 'mango'];
     fruits.unshift('lemon');
-    console.log(fruits); 
+    console.log(fruits); */
+
+    const fruits = ['banana', 'orange', 'apple', 'mango']
+    fruits[0] = 'kiwi'
+    console.log(fruits);
 
