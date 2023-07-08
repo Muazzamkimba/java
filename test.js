@@ -9,8 +9,15 @@ console.log(fruits);*/
 cars.push('kol');
 console.log(cars);*/
 
-const cars = ['benz', 'toyota', 'mazda'];
+/*const cars = ['benz', 'toyota', 'mazda'];
 cars.shift('kol');
-console.log(cars);
+console.log(cars);*/
 
+/*const fruits = ['banana', 'orange', 'apple', 'mango'];
+let fruit = fruits.shift();
+console.log(fruit);*/
+
+const fruits = ['banana', 'orange', 'apple', 'mango'];
+    fruits.unshift('lemon');
+    console.log(fruits); 
 
