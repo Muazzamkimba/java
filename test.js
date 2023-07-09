@@ -42,5 +42,9 @@ console.log(fruit);*/
     //myFamily = myBoy + myGirls;
     console.log(myFamily);
 
+    const arr1 = ['emil', 'tobbies', 'linus']
+    const myChildren = arr1.concat('peter')
+    console.log(myChildren);
+
 
 
