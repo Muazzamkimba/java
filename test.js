@@ -28,11 +28,19 @@ console.log(fruit);*/
     /*const fruits =  ['banana', 'orange', 'apple', 'mango', 'carrot']
     delete fruits[0];
     console.log(fruits)*/
-
+/*
     const myBoy = ['iro', 'naeem', 'musa']
     const myGirls = ['maes', 'fatima', 'binta']
     myFamily = myBoy.concat(myGirls);
     //myFamily = myBoy + myGirls;
+    console.log(myFamily);*/
+
+    const myBoy = ['iro', 'naeem', 'musa']
+    const myGirls = ['maes', 'fatima', 'binta']
+    const myNybs = ['zuzu', 'both', 'fyt']
+    myFamily = myBoy.concat(myGirls, myNybs);
+    //myFamily = myBoy + myGirls;
     console.log(myFamily);
+
 
 
