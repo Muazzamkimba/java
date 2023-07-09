@@ -31,8 +31,8 @@ console.log(fruit);*/
 
     const myBoy = ['iro', 'naeem', 'musa']
     const myGirls = ['maes', 'fatima', 'binta']
-    //myFamily = myBoy.concat(myGirls);
-    myFamily = myBoy + myGirls;
+    myFamily = myBoy.concat(myGirls);
+    //myFamily = myBoy + myGirls;
     console.log(myFamily);
 
 
