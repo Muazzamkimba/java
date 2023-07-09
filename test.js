@@ -32,5 +32,5 @@ console.log(fruit);*/
     const myBoy = ['iro', 'naeem', 'musa']
     const myGirls = ['maes', 'fatima', 'binta']
     myFamily = myBoy.concat(myGirls);
-    console.log
+    console.log(myFamily);
 
