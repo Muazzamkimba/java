@@ -25,7 +25,12 @@ console.log(fruit);*/
     fruits[0] = 'kiwi'
     console.log(fruits);*/
 
-    const fruits =  ['banana', 'orange', 'apple', 'mango', 'carrot']
+    /*const fruits =  ['banana', 'orange', 'apple', 'mango', 'carrot']
     delete fruits[0];
-    console.log(fruits)
+    console.log(fruits)*/
+
+    const myBoy = ['iro', 'naeem', 'musa']
+    const myGirls = ['maes', 'fatima', 'binta']
+    myFamily = myBoy.concat(myGirls);
+    console.log
 
