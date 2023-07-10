@@ -35,12 +35,14 @@ console.log(fruit);*/
     //myFamily = myBoy + myGirls;
     console.log(myFamily);*/
 
-    const myBoy = ['iro', 'naeem', 'musa']
+    /*const myBoy = ['iro', 'naeem', 'musa']
     const myGirls = ['maes', 'fatima', 'binta']
     const myNybs = ['zuzu', 'both', 'fyt']
     myFamily = myBoy.concat(myGirls, myNybs);
     //myFamily = myBoy + myGirls;
-    console.log(myFamily);
+    console.log(myFamily);*/
+
+    
 
     const arr1 = ['emil', 'tobbies', 'linus']
     const myChildren = arr1.concat('peter')
