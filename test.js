@@ -44,7 +44,8 @@ console.log(fruit);*/
 
     const cars = ['homda', 'toyota', 'mazda']
     cars.splice(2, 0, 'book', 'golf')
-    
+    console.log(cars);
+
 
 
 
