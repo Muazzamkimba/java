@@ -50,9 +50,8 @@ console.log(fruit);*/
 
 
 
-    const arr1 = ['emil', 'tobbies', 'linus']
+/*    const arr1 = ['emil', 'tobbies', 'linus']
     const myChildren = arr1.concat('peter')
-    console.log(myChildren);
-
+    console.log(myChildren);*/
 
 
