@@ -70,3 +70,7 @@ const fruits = ["Banana", "Orange", 'sos', "Lemon", 'mine', "Apple", "Mango"];
 const citrus = fruits.slice(2,3);
 console.log(citrus)
 
+const fruitss = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
+const citruss = fruitss.slice(2);
+console.log(citruss)
+
