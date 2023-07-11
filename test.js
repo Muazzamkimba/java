@@ -61,4 +61,4 @@ console.log(fruitss)
 
 const fruits1 = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
 const citrus = fruits1.slice(1);
-console.log(fruits1)
+console.log(citrus)
