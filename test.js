@@ -51,3 +51,4 @@ console.log(fruit);*/
     console.log(myChildren);*/
 
 
+const fruits = ['banana', 'orange', 'apple', 'mango']
