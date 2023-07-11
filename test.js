@@ -54,3 +54,7 @@ console.log(fruit);*/
 const fruits = ['banana', 'orange', 'apple', 'mango']
 fruits.splice(2, 2, 'lemon', 'kiwi')
 console.log(fruits)
+
+const fruitss = ['banana', 'orange', 'apple', 'mango']
+fruitss.splice(0,1)
+console.log(fruitss)
