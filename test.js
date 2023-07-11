@@ -40,17 +40,13 @@ console.log(fruit);*/
     const myNybs = ['zuzu', 'both', 'fyt']
     myFamily = myBoy.concat(myGirls, myNybs);
     //myFamily = myBoy + myGirls;
-    console.log(myFamily);*/
+    console.log(myFamily);
 
     const cars = ['homda', 'toyota', 'mazda']
     cars.splice(2, 0, 'book', 'golf')
     console.log(cars);
 
-
-
-
-
-/*    const arr1 = ['emil', 'tobbies', 'linus']
+    const arr1 = ['emil', 'tobbies', 'linus']
     const myChildren = arr1.concat('peter')
     console.log(myChildren);*/
 
