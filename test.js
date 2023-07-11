@@ -59,4 +59,6 @@ const fruitss = ['banana', 'orange', 'apple', 'mango']
 fruitss.splice(0,1)
 console.log(fruitss)
 
-
+const fruits1 = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
+const citrus = fruits1.slice(1);
+console.log(fruits1)
