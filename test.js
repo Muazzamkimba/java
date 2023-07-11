@@ -48,7 +48,7 @@ console.log(fruit);*/
 
     const arr1 = ['emil', 'tobbies', 'linus']
     const myChildren = arr1.concat('peter')
-    console.log(myChildren);*/
+    console.log(myChildren);
 
 
 const fruits = ['banana', 'orange', 'apple', 'mango']
@@ -60,6 +60,8 @@ fruitss.splice(0,1)
 console.log(fruitss)
 
 const fruits1 = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
-const citrus = fruits1.slice(1);
+const citrus = fruits1.slice(1);*/
+
+
 
 
