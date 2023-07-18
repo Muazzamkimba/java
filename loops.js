@@ -3,8 +3,9 @@ for(const cat of cats){
     console.log(cat);
 }
 
-function toUpper(string){
-    return string.toUpper();
+function toupper(string){
+    return string.toupper();
 }
     const cats =['leopard'. 'serla', 'jaguar', 'tiger', 'lion',]
-    
+    const uppercats = cats.map(toupper);
+    console.log() 
