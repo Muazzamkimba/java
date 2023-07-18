@@ -4,14 +4,13 @@ for(const cat of cats){
 }*/
 
 function toUpper(string){
-    return string.toupper();
+    return string.toUpperCase();
 }
-    const cats =['leopard'. 'serla', 'jaguar', 'tiger', 'lion'];
+    const cats = ['leopard'. 'serla', 'jaguar', 'tiger', 'lion'];
     const upperCats = cats.map(toUpper);
     console.log(upperCats); 
 
-
-    function toUpper(string) {
+    /*function toUpper(string) {
         return string.toUpperCase();
       }
       
@@ -20,5 +19,5 @@ function toUpper(string){
       const upperCats = cats.map(toUpper);
       
       console.log(upperCats);
-      // [ "LEOPARD", "SERVAL", "JAGUAR", "TIGER", "CARACAL", "LION" ]
+      // [ "LEOPARD", "SERVAL", "JAGUAR", "TIGER", "CARACAL", "LION" ]*/
       
