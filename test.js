@@ -74,3 +74,4 @@ const fruitss = ["Banana", "Orange", "Lemon", "Apple", "Mango"];
 const citruss = fruitss.slice(2);
 console.log(citruss)*/
 
+
